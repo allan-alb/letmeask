@@ -19,7 +19,7 @@
 
 ### :minidisc: Storage and authentication provider
   <ul style="list-style-type:round;">
-    <li>Google's [Firebase](https://firebase.google.com/)</li>
+  <li>Google <a href="https://firebase.google.com/">Firebase</a></li>
   </ul>
 
 ### Description
