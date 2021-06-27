@@ -11,7 +11,7 @@
 
 ![Screen](.github/letmeask-screen.png)
 
-### :computer: Languages and technologies:
+### :computer: Languages and technologies
   <ul style="list-style-type:round;">
     <li>Typescript</li>
     <li>ReactJS</li>
